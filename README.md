@@ -1,9 +1,6 @@
 # MailGraph
 
-MailGraph is a Python project designed to visualize or track email activity through graphs.  
-It provides a structured way to manage agents, tools, and dataset outputs for mail log processing and visualization.
 
-> ⚠️ If this description doesn’t match your exact goal or functionality, you can revise it easily.
 
 ---
 
