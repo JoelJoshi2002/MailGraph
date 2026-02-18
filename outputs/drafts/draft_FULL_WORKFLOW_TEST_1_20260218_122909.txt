@@ -1,0 +1,4 @@
+Ticket: question about cancelling order {{Order Number}}
+
+Draft:
+Dear Test Business, I am writing to inform you that we have received your request to cancel your order. We are pleased to inform you that we are able to confirm the full refund of $93.5. If you have any further questions or concerns, please do not hesitate to contact us. We appreciate your business and look forward to serving you in the future.
